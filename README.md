@@ -34,17 +34,19 @@ Personal Information
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
-    Naturally being an inquisitive mind, the pursuit to develop and test software lines up perfectly with my career ambitions. This behavioral trait also spills over into me always keeping up with current events and news in areas outside of my career as well that spark my interest.
+
+    Naturally being an inquisitive mind, the pursuit to develop and test software lines up perfectly with my key interests in career perspective. This behavioral trait also spills over into me always keeping up with current events and news in areas outside of my career that spark my interest.
 
      What values are important to you in a work environment?
-     Respect and Consideration for all of the members in the team. A healthy and competitive environment where members drive the best output out of each other. Honesty and Morality. A light energy that is fun, clean, inclusive and community-driven. 
+
+     Respect and Consideration for all of the members in the team. A healthy and competitive environment where members drive the best out of each other. Honesty and Morality. A light energy that is fun, clean, inclusive and community-driven. 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
-    In the industry of Test Automation, the roles in particular I researched are QA (Quality Assurance) Analyst, QA Tester, QA Engineer and QA Lead. 
+    In the industry of Test Automation, the roles in particular I researched are QA (Quality Assurance) Analyst, QA Tester, QA Engineer and QA Lead. An automation software tester combines their understanding of software testing methods with coding skills. They design and write automated scripts to mimic real user interactions, reducing the need for repetitive manual testing. These scripts then run tests on the software, identifying bugs and ensuring it functions as intended. This frees up the tester's time to focus on more complex testing scenarios.
 
     - Note any particular areas that piqued your interest.
     In QA and automation, Functional Testing in particular piqued my interest.
@@ -52,9 +54,11 @@ Personal Information
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
-    It's an competitve space that requires constant learning and with a strong foundation in Software Development, which is a skill im currently learning, Software Testing lines up perfectly with the direction im trying to go into.
+
+    It's a competitve space that requires constant learning and with a strong foundation in Software Development, which is a skill im currently learning, Software Testing lines up perfectly with the direction im trying to go into.
 
     - Identify any gaps or areas for further exploration.
+
     The future of automation testing and the stunt in growth the industry could possibly face with the threat of AI.
 
 ### Part 3: SMART Career Goals
@@ -62,7 +66,8 @@ Personal Information
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
-    Leave retail for a job as a Junior Software Tester by mid 2025 for the very latest.
+
+    Leave retail for a job as a Junior Software Tester or developer by mid 2025 for the very latest.
     Start a business and individually Develop and Design the website by the end of 2024. 
 
     - Explain the rationale behind each goal.
@@ -75,16 +80,25 @@ Personal Information
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-    Work my up from a Junior Tester to a QA Lead, and possibly find employment outside of South Africa. Preferebly relocation to North America or Europe. Scale my business across South Africa and sell it. 
+
+    Climb the ladder from a Junior Tester to a QA Lead, and possibly find employment outside of South Africa. Preferebly relocation to North America or Europe. Scale my business, sell it and remain a minor partner. 
 
     - Describe how these align with your interests and skills.
+
+    One can highlight the desire for growth to my continuous pursuit of learning and never being comfortable with complacency. My interests in advancing in testing and my business accumen are well aligned with my long-term career aspirations.
     
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+
+    Devote two hours at minimum daily to CodeSpace content, furthermore, when possible build individual projects on my own time to remain challenged and make sure I am able to put into practise the skills that I have learnt.
+
+    Obtain my Foundational Tester ISTQB Certificate.
+
+ (Include any resources or support required)
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
@@ -99,14 +113,23 @@ Personal Information
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+
     Time Management is the biggest challenge. Not knowing how to balance academics, full-time employement, recreational and social activities and maintaining relationships. 
 
     - Consider strategies to overcome these challenges.
     Priotizing what's important, notarizing things that needs to be done, waking up early and being disciplined.
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+
+    Capitalize on building projects and creating a portfolio that proves competences in both testing and coding, with the aim of easily finding internships after studying.
+
+    Join and participate in Hackathons as means of combining learning and engagement with like-minded individuals.
+
+    Network and maintain relationships with classmates after completion of studies. Not only to share and pool resources on Open-Source platforms, but also to continue having a network of individuals who are ambitious and have strong foundations in the field. As the saying goes, "alone you can go fast, together you can far."
+
+    (Include networking, mentorship, or educational opportunities)
 
 ### Submission
 
