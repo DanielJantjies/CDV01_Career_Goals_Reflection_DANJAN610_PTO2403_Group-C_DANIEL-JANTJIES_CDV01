@@ -26,9 +26,11 @@ Personal Information
 1. **Skills Analysis**:
     
     List your current skills and areas of expertise.
+
     - Critical Thinking, Marketing, Leading a team, Ability to Sell, Microsoft Office Profieciency.
 
     Identify skills you need to develop or improve.
+
     - Programing Profiency, Automation Testing, Time Management, SQL, SDLC and Security Testing.
 
 2. **Interests and Values**:
@@ -46,6 +48,7 @@ Personal Information
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+
     In the industry of Test Automation, the roles in particular I researched are QA (Quality Assurance) Analyst, QA Tester, QA Engineer and QA Lead. An automation software tester combines their understanding of software testing methods with coding skills. They design and write automated scripts to mimic real user interactions, reducing the need for repetitive manual testing. These scripts then run tests on the software, identifying bugs and ensuring it functions as intended. This frees up the tester's time to focus on more complex testing scenarios.
 
     - Note any particular areas that piqued your interest.
@@ -71,6 +74,7 @@ Personal Information
     Start a business and individually Develop and Design the website by the end of 2024. 
 
     - Explain the rationale behind each goal.
+    
     Work towards a fulfilling career in a field im actually passionate about. Also working in a space that is challenging but solves real world problems is what brings job security in towards vulnerable job market. 
 
     As a Business Graduate, an entrepreneurial mind and someone who is currently learning webdev, I think sending it and starting a business (big or small) and taking accountability for all web related development is a good way of combining all of my skills. 
